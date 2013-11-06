@@ -14,4 +14,5 @@ install.packages("ggmap", dependencies=TRUE)
 install.packages("spatstat", dependencies=TRUE)
 library(rasta)
 
-I have changed this file
+new <- I have changed this file
+newline <- 'changing the file'
