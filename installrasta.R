@@ -13,3 +13,5 @@ install.packages("reshape", dependencies=TRUE)
 install.packages("ggmap", dependencies=TRUE)
 install.packages("spatstat", dependencies=TRUE)
 library(rasta)
+
+I have changed this file
